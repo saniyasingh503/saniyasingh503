@@ -1,16 +1,24 @@
-## Hi there 👋
+### Hi there, I'm [Your Name] 👋  
 
-<!--
-**saniyasingh503/saniyasingh503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Full Stack Java Developer** | 🚀 Passionate about building scalable applications  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me  
+- 🔭 I’m currently working on **Java applications using Spring Boot & Microservices**  
+- 🌱 I’m currently learning **Cloud Computing (AWS, Docker, Kubernetes) & System Design**
+- 💬 Ask me about **Java, Spring Boot, REST APIs, Microservices, or frontend frameworks like React & Angular**  
+- 📫 How to reach me: **[saniyasingh503@gmail.com](mailto:saniyasingh503@gmail.com) | [LinkedIn](https://www.linkedin.com/in/saniyasingh503)**  
+- 😄 Pronouns: **She/Her** (or customize as per your preference)  
+- ⚡ Fun fact: **I love solving coding challenges & exploring new tech stacks in my free time!**  
+
+---
+
+### 🛠 Tech Stack  
+**Backend:** Java | Spring Boot | Hibernate | Microservices | REST APIs  
+**Frontend:** React.js | Angular | JavaScript | HTML | CSS  
+**Databases:** MySQL | PostgreSQL | MongoDB  
+**DevOps:** Docker | AWS | CI/CD  
+
+---
+
